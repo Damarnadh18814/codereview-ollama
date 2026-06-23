@@ -16,7 +16,7 @@ npx codereview-ollama <file>
 ## Prerequisites
 
 1. Install [Ollama](https://ollama.ai): `curl -fsSL https://ollama.ai/install.sh | sh`
-2. Pull codellama: `ollama pull codellama`
+2. Pull a coding model: `ollama pull qwen2.5-coder` (recommended, ~4GB) or `ollama pull llama3.2`
 3. Start Ollama: `ollama serve`
 
 ## Usage
