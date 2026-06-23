@@ -1,0 +1,24 @@
+{
+  "name": "codereview-ollama",
+  "version": "0.1.0",
+  "description": "AI code review CLI using local Ollama - privacy-first, zero-cost code reviews",
+  "main": "src/index.js",
+  "bin": {
+    "codereview-ollama": "src/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": ["code-review", "ollama", "ai", "cli", "developer-tools"],
+  "license": "MIT",
+  "homepage": "https://github.com/sairamgubbala/codereview-ollama#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sairamgubbala/codereview-ollama.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "preferGlobal": true
+}
