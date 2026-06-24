@@ -51,10 +51,9 @@ OLLAMA_HOST=http://localhost:11434 codereview-ollama app.py
 
 ## Monetization
 
-**Free**: Single file review  
-**Pro** ($5/month): Unlimited files, git diff, CI integration
-
-Support this project → [GitHub Sponsors](https://github.com/sponsors/sairamgubbala)
+**Free**: Full functionality  
+**Support**: [Ko-fi](https://ko-fi.com/sairamgubbala) — instant tips appreciated
+**GitHub Sponsors**: https://github.com/sponsors/sairamgubbala (recurring)
 
 ## License
 
